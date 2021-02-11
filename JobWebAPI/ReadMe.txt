@@ -1,0 +1,1 @@
+﻿update-database Jobs -context JobsDBContext
